@@ -1,0 +1,7 @@
+version=1
+title=AlternateClock
+description=
+description=
+description=Tell time with the help of the sun and the moon; see weather reflected in a series of basic to advanced time pieces matching the game's current GUI style; tie un-aided time telling to the survival skill. Credit to Thuztor for his HorizonClock mod.
+tags=
+visibility=public
